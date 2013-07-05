@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="master" default="none">
+	
+	<import file="build-template.xml"/>
+	
+	<target name="prepareRelease" depends="init">
+		<bnddistribute rootDir="../" buildProject="../build" outputDir="release" bndFile="../agenda/demo.bndrun" allowSnapshots="true"/>
+	</target>
+
+</project>

@@ -1,0 +1,7 @@
+-buildpath: agenda.api;version=latest,\
+	org.apache.felix.dependencymanager,\
+	osgi.core,\
+	org.apache.felix.gogo.runtime
+Private-Package: agenda.console
+Bundle-Activator: agenda.console.Activator
+Bundle-Version: 1.0.0

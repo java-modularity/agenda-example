@@ -1,0 +1,4 @@
+Include-Resource: agendaui=static
+X-Web-Resource-Version: 1.0
+X-Web-Resource: agendaui
+Bundle-Version: 1.0.0

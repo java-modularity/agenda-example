@@ -1,0 +1,3 @@
+Private-Package: agenda.service.simple
+Bundle-Activator: agenda.service.simple.Activator
+Bundle-Version: 1.0.1

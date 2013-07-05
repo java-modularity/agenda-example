@@ -1,0 +1,12 @@
+-sub: *.bnd
+-buildpath: org.apache.felix.dependencymanager,\
+	osgi.core,\
+	org.amdatu.mongo,\
+	net.vz.mongodb.jackson.mongo-jackson-mapper,\
+	org.mongodb.mongo-java-driver,\
+	de.undercouch.bson4jackson,\
+	jackson-core-asl,\
+	jackson-jaxrs,\
+	jackson-mapper-asl,\
+	org.amdatu.web.rest.jaxrs;version=1.0.1,\
+	org.amdatu.web.rest.doc;version=1.0.1

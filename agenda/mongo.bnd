@@ -1,0 +1,3 @@
+Private-Package: agenda.mongo
+Bundle-Activator: agenda.mongo.Activator
+Bundle-Version: 1.0.0

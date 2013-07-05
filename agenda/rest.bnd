@@ -1,0 +1,3 @@
+Private-Package: agenda.rest
+Bundle-Activator: agenda.rest.Activator
+Bundle-Version: 1.0.0
